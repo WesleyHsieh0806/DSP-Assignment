@@ -1,0 +1,2 @@
+gmm-init-mono --binary=false --shared-phones=exp/mono/phonesets.int '--train-feats=ark:subset-feats --n=10 "ark,s,cs:feat/train.39.cmvn.ark" ark:- |' train/topo 39 exp/mono/00.mdl exp/mono/tree 
+subset-feats --n=10 ark,s,cs:feat/train.39.cmvn.ark ark:- 

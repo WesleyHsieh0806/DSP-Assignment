@@ -1,0 +1,1 @@
+utility/vulcan-am-kaldi-to-htk --trans-mdl=exp/mono/final.mdl --tree=exp/mono/tree --phonelist=train/phones.txt --htk-mmf=viterbi/mono/final.mmf --htk-tiedlist=viterbi/mono/tiedlist 

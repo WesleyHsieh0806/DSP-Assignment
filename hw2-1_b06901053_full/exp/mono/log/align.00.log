@@ -1,0 +1,2 @@
+align-equal-compiled ark:exp/mono/train.graph ark,s,cs:feat/train.39.cmvn.ark ark:exp/mono/00.ali 
+LOG (align-equal-compiled[5.5.0~1-40c7]:main():align-equal-compiled.cc:107) Success: done 2239 utterances.

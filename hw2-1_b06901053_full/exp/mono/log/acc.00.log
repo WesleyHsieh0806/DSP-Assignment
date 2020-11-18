@@ -1,0 +1,48 @@
+gmm-acc-stats-ali --binary=false exp/mono/00.mdl ark,s,cs:feat/train.39.cmvn.ark ark:exp/mono/train.ali exp/mono/00.acc 
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 50 utterances; for utterance astmic-fsi001-sen_0049 avg. like is -99.7987 over 62 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 100 utterances; for utterance astmic-fsi001-sen_0099 avg. like is -105.435 over 49 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 150 utterances; for utterance astmic-fsi001-sen_0149 avg. like is -103.478 over 42 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 200 utterances; for utterance astmic-fsi001-sen_0199 avg. like is -102.451 over 36 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 250 utterances; for utterance astmic-fsi001-sen_0249 avg. like is -102.41 over 72 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 300 utterances; for utterance astmic-fsi001-sen_0299 avg. like is -109.01 over 52 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 350 utterances; for utterance astmic-fsi001-sen_0349 avg. like is -97.8398 over 52 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 400 utterances; for utterance astmic-fsi001-sen_0399 avg. like is -101.548 over 54 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 450 utterances; for utterance astmic-fsi001-sen_0449 avg. like is -95.7191 over 39 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 500 utterances; for utterance astmic-fsi001-sen_0499 avg. like is -101.455 over 57 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 550 utterances; for utterance astmic-fsi001-sen_0549 avg. like is -99.7982 over 44 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 600 utterances; for utterance astmic-fsi002-sen_0011 avg. like is -98.6716 over 88 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 650 utterances; for utterance astmic-fsi002-sen_0061 avg. like is -105.707 over 59 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 700 utterances; for utterance astmic-fsi002-sen_0111 avg. like is -110.011 over 70 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 750 utterances; for utterance astmic-fsi002-sen_0161 avg. like is -99.8939 over 67 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 800 utterances; for utterance astmic-fsi002-sen_0211 avg. like is -94.3185 over 62 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 850 utterances; for utterance astmic-fsi002-sen_0261 avg. like is -103.541 over 93 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 900 utterances; for utterance astmic-fsi003-sen_0028 avg. like is -109.958 over 95 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 950 utterances; for utterance astmic-fsi003-sen_0078 avg. like is -108.607 over 116 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1000 utterances; for utterance astmic-fsi003-sen_0128 avg. like is -105.871 over 93 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1050 utterances; for utterance astmic-fsi003-sen_0178 avg. like is -100.548 over 95 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1100 utterances; for utterance astmic-fsi003-sen_0228 avg. like is -114.702 over 111 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1150 utterances; for utterance astmic-fsi004-sen_0032 avg. like is -104.591 over 121 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1200 utterances; for utterance astmic-fsi004-sen_0082 avg. like is -115.245 over 113 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1250 utterances; for utterance astmic-fsi004-sen_0132 avg. like is -111.081 over 111 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1300 utterances; for utterance astmic-fsi004-sen_0182 avg. like is -106.574 over 116 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1350 utterances; for utterance astmic-fsi004-sen_0232 avg. like is -116.239 over 144 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1400 utterances; for utterance astmic-fsi005-sen_0017 avg. like is -112.402 over 162 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1450 utterances; for utterance astmic-fsi005-sen_0067 avg. like is -110.318 over 126 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1500 utterances; for utterance astmic-fsi005-sen_0117 avg. like is -114.041 over 162 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1550 utterances; for utterance astmic-fsi005-sen_0167 avg. like is -106.355 over 134 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1600 utterances; for utterance astmic-fsi005-sen_0217 avg. like is -122.697 over 116 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1650 utterances; for utterance astmic-fsi005-sen_0267 avg. like is -118.406 over 154 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1700 utterances; for utterance astmic-fsi006-sen_0031 avg. like is -115.336 over 175 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1750 utterances; for utterance astmic-fsi006-sen_0081 avg. like is -105.275 over 170 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1800 utterances; for utterance astmic-fsi006-sen_0131 avg. like is -119.239 over 154 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1850 utterances; for utterance astmic-fsi006-sen_0181 avg. like is -106.223 over 162 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1900 utterances; for utterance astmic-fsi006-sen_0231 avg. like is -119.113 over 172 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 1950 utterances; for utterance astmic-fsi007-sen_0019 avg. like is -103.903 over 262 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 2000 utterances; for utterance astmic-fsi007-sen_0069 avg. like is -112.686 over 170 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 2050 utterances; for utterance astmic-fsi007-sen_0119 avg. like is -110.145 over 277 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 2100 utterances; for utterance astmic-fsi007-sen_0169 avg. like is -109.978 over 200 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 2150 utterances; for utterance astmic-fsi007-sen_0219 avg. like is -104.726 over 210 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:105) Processed 2200 utterances; for utterance astmic-fsi007-sen_0269 avg. like is -122.785 over 249 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:112) Done 2239 files, 0 with errors.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:115) Overall avg like per frame (Gaussian only) = -109.229 over 255857 frames.
+LOG (gmm-acc-stats-ali[5.5.0~1-40c7]:main():gmm-acc-stats-ali.cc:123) Written accs.

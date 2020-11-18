@@ -1,0 +1,2 @@
+apply-cmvn ark:feat/train.tmp.compute ark:feat/train.tmp.ark ark,t,scp:feat/train.39.cmvn.ark,feat/train.39.cmvn.scp 
+LOG (apply-cmvn[5.5.0~1-40c7]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 2239 utterances, errors on 0

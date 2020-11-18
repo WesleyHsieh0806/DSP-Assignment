@@ -1,0 +1,12 @@
+<eps> 0
+sil 1
+liN 2
+#i 3
+#er 4
+san 5
+sy 6
+#u 7
+liou 8
+qi 9
+ba 10
+jiou 11
